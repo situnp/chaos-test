@@ -4,6 +4,8 @@ metadata:
   creationTimestamp: null
   labels:
     cluster_id: 5d21a3bc-b0c3-4864-a5ac-19e2d8d8752e
+    workflow_id: e7fa20d0-5af0-47c0-81ca-05cb6f1c8943
+    workflows.argoproj.io/controller-instanceid: 5d21a3bc-b0c3-4864-a5ac-19e2d8d8752e
   name: test1
   namespace: litmus
 spec:
